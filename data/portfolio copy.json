@@ -1,5 +1,5 @@
 {
-  "name": "Chetan",
+  "name": "Malcolm",
   "headerTaglineOne": "Hello 👋",
   "headerTaglineTwo": "I'm Malcolm Buluku - Polished",
   "headerTaglineThree": "Data Analytics Engineer",
@@ -91,7 +91,14 @@
       "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
     }
   ],
-  "aboutpara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "aboutpara": "Results-driven Data & Analytics Engineer with 5+ years of expertise in architecting, implementing, and
+scaling enterprise-grade data platforms on cloud infrastructure. Currently spearheading data engineering
+initiatives at Zep-Re (PTA Reinsurance), delivering mission-critical analytics capabilities across
+underwriting, claims, and actuary functions. Demonstrated success in building robust ETL/ELT
+pipelines, implementing real-time streaming solutions, and orchestrating end-to-end data workflows
+that drive business value. Combines technical excellence in GCP and modern data technologies with
+strong leadership skills and cross-functional collaboration to foster data-driven decision making.
+.",
   "resume": {
     "tagline": "👋  I'm a Data Analytics Engineer, dashboard designer, and maker.",
     "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
@@ -121,6 +128,6 @@
     },
     "languages": ["Javascript", "HTML5", "CSS", "Python"],
     "frameworks": ["React", "Typescript", "NodeJs"],
-    "others": ["Figma", "AdobeXD", "AWS"]
+    "others": ["Figma", "GCP", "AWS"]
   }
 }
